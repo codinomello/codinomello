@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Mello! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22D3EE&width=435&lines=Arquiteto+de+Sistemas;Entusiasta+de+Golang;Desenvolvedor+C%2B%2B;Mago+do+TypeScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+Mono&size=24&duration=4000&pause=1000&color=22D3EE&width=435&lines=Desenvolvedor+de+Software;Especialista+Golang;Desenvolvedor+C%2B%2B;Aprendiz+de+TypeScript)](https://git.io/typing-svg)
 
 ### 🛠 Tecnologias Principais
 
