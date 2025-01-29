@@ -34,7 +34,7 @@ Website informativo e educativo que informa sobre os biomas brasileiros e suas t
 ### 🚀 Stack 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,cpp,ts,docker, htmx, mongodb,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=go,cpp,ts,docker,htmx,mongodb,git&perline=8" />
 </div>
 
 ---
