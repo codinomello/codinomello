@@ -2,12 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+Mono&size=24&duration=4000&pause=1000&color=22D3EE&width=435&lines=Desenvolvedor+de+Software;Especialista+Golang;Desenvolvedor+C%2B%2B;Aprendiz+de+TypeScript)](https://git.io/typing-svg)
 
-### 🌍 Idiomas
-
-![Português](https://img.shields.io/badge/Português-Nativo-006494?style=flat-square&logo=translate&logoColor=white)
-![Inglês](https://img.shields.io/badge/Inglês-Avançado-1D6F93?style=flat-square&logo=translate&logoColor=white)
-![Francês](https://img.shields.io/badge/Francês-Avançado-3D9EBB?style=flat-square&logo=translate&logoColor=white)
-![Espanhol](https://img.shields.io/badge/Espanhol-Intermediário-2A89A7?style=flat-square&logo=translate&logoColor=white)
+---
 
 ### 🎓 Formação Acadêmica
 
@@ -38,6 +33,8 @@
   </tr>
 </table>
 
+---
+
 ### 🛠 Tecnologias Principais
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -65,12 +62,31 @@ Website informativo e educativo que informa sobre os biomas brasileiros e suas t
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🌍 Idiomas
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=codinomello&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinomello&layout=compact&langs_count=6&hide=html,css&theme=transparent"/>
-</div>
+![Português](https://img.shields.io/badge/Português-Nativo-006494?style=flat-square&logo=translate&logoColor=white)
+![Inglês](https://img.shields.io/badge/Inglês-Avançado-1D6F93?style=flat-square&logo=translate&logoColor=white)
+![Francês](https://img.shields.io/badge/Francês-Avançado-3D9EBB?style=flat-square&logo=translate&logoColor=white)
+![Espanhol](https://img.shields.io/badge/Espanhol-Intermediário-2A89A7?style=flat-square&logo=translate&logoColor=white)
+
+---
+
+### 🏆 Participações em Eventos e Competições
+
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <img src="https://img.icons8.com/color/96/000000/hackathon.png" width="60" height="60"/>
+      <br>
+      <sub>
+        <b>FECEG - Feira de Ciências e Engenharia de Guarulhos</b>
+        <br>
+        2024
+        <br>
+        <em>10</em>
+      </sub>
+    </td>
+</table>
 
 ---
 
@@ -78,6 +94,14 @@ Website informativo e educativo que informa sobre os biomas brasileiros e suas t
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,react,tailwind,htmx&perline=8" />
+</div>
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=codinomello&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinomello&layout=compact&langs_count=6&hide=html,css&theme=transparent"/>
 </div>
 
 ---
