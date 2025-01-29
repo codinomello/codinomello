@@ -2,6 +2,42 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+Mono&size=24&duration=4000&pause=1000&color=22D3EE&width=435&lines=Desenvolvedor+de+Software;Especialista+Golang;Desenvolvedor+C%2B%2B;Aprendiz+de+TypeScript)](https://git.io/typing-svg)
 
+### 🌍 Idiomas
+
+![Português](https://img.shields.io/badge/Português-Nativo-006494?style=flat-square&logo=translate&logoColor=white)
+![Inglês](https://img.shields.io/badge/Inglês-Avançado-1D6F93?style=flat-square&logo=translate&logoColor=white)
+![Espanhol](https://img.shields.io/badge/Espanhol-Intermediário-2A89A7?style=flat-square&logo=translate&logoColor=white)
+![Francês](https://img.shields.io/badge/Francês-Básico-3D9EBB?style=flat-square&logo=translate&logoColor=white)
+
+### 🎓 Formação Acadêmica
+
+<table>
+  <tr>
+    <td align="center" width="100px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+      <br>
+      <sub>
+        <b>Técnico em Informática</b>
+        <br>
+        ENIAC
+        <br>
+        2024-2026
+      </sub>
+    </td>
+    <td align="center" width="100px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/>
+      <br>
+      <sub>
+        <b>Go Programming</b>
+        <br>
+        FreeCodeCamp
+        <br>
+        2024
+      </sub>
+    </td>
+  </tr>
+</table>
+
 ### 🛠 Tecnologias Principais
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
