@@ -6,8 +6,8 @@
 
 ![Português](https://img.shields.io/badge/Português-Nativo-006494?style=flat-square&logo=translate&logoColor=white)
 ![Inglês](https://img.shields.io/badge/Inglês-Avançado-1D6F93?style=flat-square&logo=translate&logoColor=white)
+![Francês](https://img.shields.io/badge/Francês-Avançado-3D9EBB?style=flat-square&logo=translate&logoColor=white)
 ![Espanhol](https://img.shields.io/badge/Espanhol-Intermediário-2A89A7?style=flat-square&logo=translate&logoColor=white)
-![Francês](https://img.shields.io/badge/Francês-Básico-3D9EBB?style=flat-square&logo=translate&logoColor=white)
 
 ### 🎓 Formação Acadêmica
 
