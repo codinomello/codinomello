@@ -14,8 +14,11 @@
 
 ### 🎯 Projetos
 
-🔭 **Atualmente desenvolvendo** → [logs-go](https://github.com/codinomello/logs-go)  
-Sistema distribuído de processamento de logs em tempo real usando Golang e Redis
+⚙️ **Desenvolvimento** → [logs-go](https://github.com/codinomello/logs-go) 📰 
+Sistema distribuído de processamento de logs em tempo real usando Go e MongoDB
+
+📄 **Publicado** → [plamt-html](https://github.com/codinomello/plamt-html) 🌱
+Website informativo e educativo que informa sobre os biomas brasileiros e suas tecnologias.
 
 ---
 
@@ -31,7 +34,7 @@ Sistema distribuído de processamento de logs em tempo real usando Golang e Redi
 ### 🚀 Stack 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,cpp,ts,docker,linux,vscode,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=go,cpp,ts,docker,mongodb,git&perline=8" />
 </div>
 
 ---
