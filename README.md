@@ -33,7 +33,7 @@ Website informativo e educativo que informa sobre os biomas brasileiros e suas t
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=codinomello&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinomello&layout=compact&langs_count=6&hide=html,css&theme=transparent"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinomell&layout=compact&langs_count=6&hide=html,css&theme=transparent"/>
 </div>
 
 ---
