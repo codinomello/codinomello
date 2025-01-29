@@ -78,8 +78,6 @@ Website informativo e educativo que informa sobre os biomas brasileiros e suas t
         <b>FECEG - Feira de Ciências e Engenharia de Guarulhos</b>
         <br>
         2024
-        <br>
-        <em>10</em>
       </sub>
     </td>
 </table>
