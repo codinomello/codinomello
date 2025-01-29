@@ -1,9 +1,5 @@
 # Olá, eu sou Gabriel Mello! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+Mono&size=24&duration=4000&pause=1000&color=22D3EE&width=435&lines=Desenvolvedor+de+Software;Especialista+Golang;Desenvolvedor+C%2B%2B;Aprendiz+de+TypeScript)](https://git.io/typing-svg)
-
----
-
 ### 🎓 Formação Acadêmica
 
 <table>
@@ -95,6 +91,7 @@ Website informativo e educativo que informa sobre os biomas brasileiros e suas t
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,react,tailwind,htmx&perline=8" />
 </div>
+
 ---
 
 ### 📊 Estatísticas do GitHub
