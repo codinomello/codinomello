@@ -31,7 +31,7 @@ Sistema distribuído de processamento de logs em tempo real usando Golang e Redi
 ### 🚀 Stack 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,cpp,ts,docker,linux,vscode,redis,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=go,cpp,ts,docker,linux,vscode,git&perline=8" />
 </div>
 
 ---
@@ -40,6 +40,3 @@ Sistema distribuído de processamento de logs em tempo real usando Golang e Redi
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielmello-dev)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmello84033@gmail.com)
-
-![Snake animation](https://github.com/codinomello/codinomello/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://github.com/codinomello/codinomello/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
