@@ -1,7 +1,5 @@
 # Olá, eu sou Gabriel Mello! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22D3EE&width=435&lines=Arquiteto+de+Sistemas;Entusiasta+de+Golang;Desenvolvedor+C%2B%2B;Mago+do+TypeScript)](https://git.io/typing-svg)
-
 ### 🛠 Tecnologias Principais
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -21,9 +19,9 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codinomello&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=codinomello&theme=nightowl" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinomello&layout=compact&theme=nightowl&langs_count=6&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codinomello&show_icons=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=codinomello"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinomello&layout=compact&langs_count=6&hide=html,css"/>
 </div>
 
 ---
@@ -54,7 +52,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielmello-dev)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmello84033@gmail.com)
 
-![Snake animation](https://github.com/codinomello/codinomello/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/codinomello/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 codinomello/codinomello é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
