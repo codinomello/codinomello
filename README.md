@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td align="center" width="100px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/eniac-logo.png" width="60" height="60"/>
       <br>
       <sub>
         <b>Técnico em Informática</b>
@@ -16,12 +16,12 @@
       </sub>
     </td>
     <td align="center" width="100px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/feceg-logo.png" width="60" height="60"/>
       <br>
       <sub>
-        <b>Go Programming</b>
+        <b>Participação na FECEG</b>
         <br>
-        FreeCodeCamp
+        Feira de Ciências e Engenharia
         <br>
         2024
       </sub>
@@ -50,10 +50,10 @@
 
 ### 🎯 Projetos
 
-⚙️ **Desenvolvimento** → [logs-go](https://github.com/codinomello/logs-go) 📰 
+⚙️ **Desenvolvimento** → [logs-go](https://github.com/codinomello/logs-go) 📰  
 Sistema distribuído de processamento de logs em tempo real usando Go e MongoDB
 
-📄 **Publicado** → [plamt-html](https://github.com/codinomello/plamt-html) 🌱
+📄 **Publicado** → [plamt-html](https://github.com/codinomello/plamt-html) 🌱  
 Website informativo e educativo que informa sobre os biomas brasileiros e suas tecnologias.
 
 ---
@@ -72,7 +72,7 @@ Website informativo e educativo que informa sobre os biomas brasileiros e suas t
 <table>
   <tr>
     <td align="center" width="150px">
-      <img src="https://img.icons8.com/color/96/000000/hackathon.png" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/feceg-logo.png" width="60" height="60"/>
       <br>
       <sub>
         <b>FECEG - Feira de Ciências e Engenharia de Guarulhos</b>
@@ -80,6 +80,7 @@ Website informativo e educativo que informa sobre os biomas brasileiros e suas t
         2024
       </sub>
     </td>
+  </tr>
 </table>
 
 ---
