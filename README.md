@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td align="center" width="100px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/eniac.png" width="40" height="40"/>
       <br>
       <sub>
         <b>Técnico em Informática</b>
@@ -16,7 +16,7 @@
       </sub>
     </td>
     <td align="center" width="100px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/feceg.png" width="40" height="40"/>
       <br>
       <sub>
         <b>Go Programming</b>
