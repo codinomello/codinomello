@@ -21,7 +21,7 @@
       <sub>
         <b>Go Programming</b>
         <br>
-        FreeCodeCamp
+        freeCodeCamp
         <br>
         2024
       </sub>
