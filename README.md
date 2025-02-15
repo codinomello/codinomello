@@ -83,6 +83,16 @@ Website informativo e educativo que informa sobre os biomas brasileiros e suas t
         2024
       </sub>
     </td>
+    <tr>
+    <td align="center" width="150px">
+      <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/mostratech.png" width="40" height="40"/>
+      <br>
+      <sub>
+        <b>Mostratech - Projeto Integrador</b>
+        <br>
+        2024
+      </sub>
+    </td>
 </table>
 
 ---
