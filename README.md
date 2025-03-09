@@ -1,4 +1,4 @@
-# Olá, eu sou Gabriel Mello! 👋
+## 👋 Olá, eu sou Gabriel Mello!
 
 ### 🎓 Formação Acadêmica
 
@@ -33,20 +33,17 @@
 
 ### 🛠 Tecnologias Principais
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-FCBA03?style=flat-square&logo=zig&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-<!--![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) -->
-<!--![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)-->
-<!--![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)-->
+![Go](https://img.shields.io/badge/Go-458588?style=flat-square&logo=go&logoColor=ebdbb2)
+![TypeScript](https://img.shields.io/badge/TypeScript-689d6a?style=flat-square&logo=typescript&logoColor=ebdbb2)
+![C](https://img.shields.io/badge/C-b16286?style=flat-square&logo=c%2B%2B&logoColor=ebdbb2)
+![Python](https://img.shields.io/badge/Python-d79921?style=flat-square&logo=python&logoColor=ebdbb2)
+![SQL](https://img.shields.io/badge/SQL-cc241d?style=flat-square&logo=mysql&logoColor=ebdbb2)
+![Docker](https://img.shields.io/badge/Docker-458588?style=flat-square&logo=docker&logoColor=ebdbb2)
+![MongoDB](https://img.shields.io/badge/MongoDB-689d6a?style=flat-square&logo=mongodb&logoColor=ebdbb2)
+![Android](https://img.shields.io/badge/Android-98971a?style=flat-square&logo=android&logoColor=ebdbb2)
+![Zig](https://img.shields.io/badge/Zig-d79921?style=flat-square&logo=zig&logoColor=ebdbb2)
+![Linux](https://img.shields.io/badge/Linux-fabd2f?style=flat-square&logo=linux&logoColor=282828)
+![Git](https://img.shields.io/badge/Git-cc241d?style=flat-square&logo=git&logoColor=ebdbb2)
 
 ---
 
@@ -54,20 +51,20 @@
 
 🔎 **2025** → [weebie-go](https://github.com/codinomello/weebie-go) ☁
 
-⚙️ **Desenvolvimento** → [logs-go](https://github.com/codinomello/logs-go) 📰 
+⚙️ **Desenvolvimento** → [logs-go](https://github.com/codinomello/logs-go) 📰  
 Sistema distribuído de processamento de logs em tempo real usando Go e MongoDB
 
-📄 **Publicado** → [plamt-html](https://github.com/codinomello/plamt-html) 🌱
+📄 **Publicado** → [plamt-html](https://github.com/codinomello/plamt-html) 🌱  
 Website informativo e educativo que informa sobre os biomas brasileiros e suas tecnologias.
 
 ---
 
 ### 🌍 Idiomas
 
-![Português](https://img.shields.io/badge/Português-Nativo-008494?style=flat-square&logo=translate&logoColor=white)
-![Inglês](https://img.shields.io/badge/Inglês-Avançado-1D6F93?style=flat-square&logo=translate&logoColor=white)
-![Francês](https://img.shields.io/badge/Francês-Avançado-1D6F93?style=flat-square&logo=translate&logoColor=white)
-![Espanhol](https://img.shields.io/badge/Espanhol-Intermediário-3D9EBB?style=flat-square&logo=translate&logoColor=white)
+![Português](https://img.shields.io/badge/Português-Nativo-458588?style=flat-square&logo=translate&logoColor=ebdbb2)
+![Inglês](https://img.shields.io/badge/Inglês-Avançado-689d6a?style=flat-square&logo=translate&logoColor=ebdbb2)
+![Francês](https://img.shields.io/badge/Francês-Avançado-b16286?style=flat-square&logo=translate&logoColor=ebdbb2)
+![Espanhol](https://img.shields.io/badge/Espanhol-Intermediário-d79921?style=flat-square&logo=translate&logoColor=ebdbb2)
 
 ---
 
@@ -98,7 +95,7 @@ Website informativo e educativo que informa sobre os biomas brasileiros e suas t
 
 ---
 
-### 🚀 Stack 
+### 🚀 Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,react,tailwind,htmx&perline=8" />
@@ -109,15 +106,15 @@ Website informativo e educativo que informa sobre os biomas brasileiros e suas t
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=codinomello&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinomello&layout=compact&langs_count=6&hide=html,css&theme=transparent"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=codinomello&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinomello&layout=compact&langs_count=6&hide=html,css&theme=gruvbox"/>
 </div>
 
 ---
 
-### 📫 Contato
+### 👯️ Contato
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-h-mello)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielmellocode@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/codinomello)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23629787)
+[![Linkedin](https://img.shields.io/badge/Linkedin-458588?style=flat-square&logo=linkedin&logoColor=ebdbb2)](https://linkedin.com/in/gabriel-h-mello)
+[![Email](https://img.shields.io/badge/Email-d79921?style=flat-square&logo=gmail&logoColor=ebdbb2)](mailto:gabrielmellocode@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-b16286?style=flat-square&logo=instagram&logoColor=ebdbb2)](https://instagram.com/codinomello)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-cc241d?style=flat-square&logo=stackoverflow&logoColor=ebdbb2)](https://stackoverflow.com/users/23629787)
