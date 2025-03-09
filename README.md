@@ -41,8 +41,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-D79921?style=flat-square&logo=zig&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-d99227?style=flat-square&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 <!--![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) -->
