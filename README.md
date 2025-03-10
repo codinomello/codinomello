@@ -46,6 +46,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/C-4F4F4F?style=flat-square&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-282828?style=flat-square&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 
 ---
 
