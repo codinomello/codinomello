@@ -49,7 +49,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 
 ---
-
+```cascadia
+Olá, mundo! Este texto será exibido em uma fonte monoespaçada.
 ### 🎯 Projetos
 
 🔎 2025 → [weebie-go](https://github.com/codinomello/weebie-go) ☁
