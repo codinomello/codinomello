@@ -16,6 +16,17 @@
       </sub>
     </td>
     <td align="center" width="100px">
+      <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/cs50.png" width="40" height="40"/>
+      <br>
+      <sub>
+        <b>CS50</b>
+        <br>
+        Harvard
+        <br>
+        2024
+      </sub>
+    </td>
+    <td align="center" width="100px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/>
       <br>
       <sub>
