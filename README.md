@@ -19,7 +19,7 @@
       <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/cs50.png" width="40" height="40"/>
       <br>
       <sub>
-        <b>CS50 - Computer Science</b>
+        <b>CS50 Computer Science</b>
         <br>
         Harvard
         <br>
