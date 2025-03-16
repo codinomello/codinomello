@@ -23,11 +23,11 @@
         <br>
         Harvard
         <br>
-        2024
+        2025
       </sub>
     </td>
     <td align="center" width="125px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
       <br>
       <sub>
         <b>Go Programming</b>
