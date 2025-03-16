@@ -23,14 +23,36 @@
         <br>
         Harvard
         <br>
-        2025
+        2023
+      </sub>
+    </td>
+    <td align="center" width="125px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+      <br>
+      <sub>
+        <b>CS com Python</b>
+        <br>
+        USP
+        <br>
+        2024
       </sub>
     </td>
     <td align="center" width="125px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
       <br>
       <sub>
-        <b>Go Programming</b>
+        <b>OOP com Java</b>
+        <br>
+        ITA
+        <br>
+        2025
+      </sub>
+    </td>
+    <td align="center" width="125px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/>
+      <br>
+      <sub>
+        <b>Programação com Go</b>
         <br>
         freeCodeCamp
         <br>
