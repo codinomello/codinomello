@@ -84,7 +84,7 @@
 ---
 
 🔎 2025 → [weebie-go](https://github.com/codinomello/weebie-go) ☁
-> Uma plataforma de busca especializada desenvolvida em Go
+> Uma plataforma de iniciativas de projetos comunitários em Go
 
 ⚙ Desenvolvimento → [logs-go](https://github.com/codinomello/logs-go) 📰 
 > Sistema distribuído de processamento de logs em tempo real usando Go e MongoDB
