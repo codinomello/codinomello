@@ -108,7 +108,7 @@
 <table>
   <tr>
     <td align="center" width="150px">
-      <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/feceg.png" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/mostratech.png" width="40" height="40"/>
       <br>
       <sub>
         <b>FECEG - Feira de Ciências e Engenharia de Guarulhos</b>
