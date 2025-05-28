@@ -123,7 +123,7 @@
       <sub>
         <b>Mostratech - Projeto Integrador</b>
         <br>
-        2024
+        2024 & 2025
       </sub>
     </td>
   </tr>
