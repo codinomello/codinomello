@@ -78,7 +78,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/C-4F4F4F?style=flat&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-282828?style=flat&logo=linux&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/C++-#f34b7d?style=flat&logo=c%2B%2B&logoColor=white)
 <!--![Firebase](https://img.shields.io/badge/Firebase-db8502?style=flat-square&logo=firebase&logoColor=white)-->
 <!--![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)-->
 
