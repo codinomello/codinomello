@@ -139,17 +139,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img
-    src="https://metrics.lecoq.io/codinomello?template=classic&config.timezone=America/Sao_Paulo"
-    alt="GitHub Metrics de codinomello"
-  />
-</div>
-
----
-
 ### 📫 Contato
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-h-mello)
