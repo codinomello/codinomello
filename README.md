@@ -76,9 +76,9 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-D79921?style=flat&logo=zig&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-f34b7d?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-4F4F4F?style=flat&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-282828?style=flat&logo=linux&logoColor=white)
-![C++](https://img.shields.io/badge/C++-f34b7d?style=flat&logo=c%2B%2B&logoColor=white)
 <!--![Firebase](https://img.shields.io/badge/Firebase-db8502?style=flat-square&logo=firebase&logoColor=white)-->
 <!--![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)-->
 
