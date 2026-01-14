@@ -142,8 +142,10 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=codinomello&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinomello&layout=compact&langs_count=6&hide=html,css&theme=transparent"/>
+  <img
+    src="https://metrics.lecoq.io/codinomello?template=classic&config.timezone=America/Sao_Paulo"
+    alt="GitHub Metrics de codinomello"
+  />
 </div>
 
 ---
