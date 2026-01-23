@@ -1,65 +1,67 @@
 # Olá, eu sou Gabriel de Mello! 👋
 
+<p>👦 Desenvolvedor Full Stack • Go • Cloud • Data</p>
+
 ### 🎓 Formação Acadêmica
 
 <table align="center">
-  <tr>
-    <td align="center" width="125px">
-      <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/eniac.png" width="40" height="40"/>
-      <br>
-      <sub>
-        <b>Técnico em Informática</b>
-        <br>
-        ENIAC
-        <br>
-        2024-2026
-      </sub>
-    </td>
-    <td align="center" width="125px">
-      <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/cs50.png" width="40" height="40"/>
-      <br>
-      <sub>
-        <b>CS50</b>
-        <br>
-        Harvard
-        <br>
-        2023
-      </sub>
-    </td>
-    <td align="center" width="125px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-      <br>
-      <sub>
-        <b>CS com Python</b>
-        <br>
-        USP
-        <br>
-        2024
-      </sub>
-    </td>
-    <td align="center" width="125px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-      <br>
-      <sub>
-        <b>OOP com Java</b>
-        <br>
-        ITA
-        <br>
-        2025
-      </sub>
-    </td>
-    <td align="center" width="125px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/>
-      <br>
-      <sub>
-        <b>Programação com Go</b>
-        <br>
-        freeCodeCamp
-        <br>
-        2024
-      </sub>
-    </td>
-  </tr>
+    <tr>
+        <td align="center" width="125px">
+            <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/eniac.png" width="40" height="40"/>
+            <br>
+            <sub>
+                <b>Técnico em Informática</b>
+                <br>
+                ENIAC
+                <br>
+                2024-2026
+            </sub>
+        </td>
+        <td align="center" width="125px">
+            <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/cs50.png" width="40" height="40"/>
+            <br>
+            <sub>
+                <b>CS50</b>
+                <br>
+                Harvard
+                <br>
+                2023
+            </sub>
+        </td>
+        <td align="center" width="125px">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+            <br>
+            <sub>
+                <b>CS com Python</b>
+                <br>
+                USP
+                <br>
+                2024
+            </sub>
+        </td>
+        <td align="center" width="125px">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+            <br>
+            <sub>
+                <b>OOP com Java</b>
+                <br>
+                ITA
+                <br>
+                2025
+            </sub>
+        </td>
+        <td align="center" width="125px">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/>
+            <br>
+            <sub>
+                <b>Programação com Go</b>
+                <br>
+                freeCodeCamp
+                <br>
+                2024
+            </sub>
+        </td>
+    </tr>
 </table>
 
 ---
@@ -98,43 +100,43 @@
     <tr>
         <td align="center"><b>🚀 Full Stack</b></td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=go,ts,react,tailwind,htmx&perline=8" />
+            <img src="https://skillicons.dev/icons?i=go,ts,react,tailwind,htmx&perline=8" width="250"/>
         </td>
     </tr>
     <tr>
         <td align="center"><b>☕ Back-end</b></td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=go,java,spring,python,mongodb,postgresql,redis&perline=8" />
+            <img src="https://skillicons.dev/icons?i=go,java,spring,python,mongodb,postgresql,redis&perline=8" width="350"/>
         </td>
     </tr>
     <tr>
         <td align="center"><b>🎨 Frontend</b></td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=astro,react,ts,tailwind,htmx" />
+            <img src="https://skillicons.dev/icons?i=astro,react,ts,tailwind,htmx" width="250"/>
         </td>
     </tr>
     <tr>
         <td align="center"><b>📊 Dados / IA</b></td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=8" />
+            <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=8" width="100"/>
         </td>
     </tr>
     <tr>
         <td align="center"><b>📱 Mobile</b></td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=flutter,kotlin,java&perline=8" />
+            <img src="https://skillicons.dev/icons?i=flutter,kotlin,java&perline=8" width="150"/>
         </td>
     </tr>
     <tr>
         <td align="center"><b>☁️ Cloud / DevOps</b></td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,gcp,aws&perline=8" />
+            <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,gcp,aws&perline=8" width="250"/>
         </td>
     </tr>
     <tr>
         <td align="center"><b>⚙️ Sistemas e Baixo Nível</b></td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=c,cpp,linux,windows,git&perline=8" />
+            <img src="https://skillicons.dev/icons?i=c,cpp,linux,windows,git&perline=8" width="250"/>
         </td>
     </tr>
 </table>
@@ -144,26 +146,26 @@
 ### 🏆 Participações em Eventos e Competições
 
 <table align="center">
-  <tr>
-    <td align="center" width="150px">
-      <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/feceg.png" width="40" height="40"/>
-      <br>
-      <sub>
-        <b>FECEG - Feira de Ciências e Engenharia de Guarulhos</b>
+    <tr>
+        <td align="center" width="150px">
+        <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/feceg.png" width="40" height="40"/>
         <br>
-        2024
-      </sub>
-    </td>
-    <td align="center" width="150px">
-      <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/mostratech.png" width="40" height="40"/>
-      <br>
-      <sub>
-        <b>Mostratech - Projeto Integrador</b>
+        <sub>
+            <b>FECEG - Feira de Ciências e Engenharia de Guarulhos</b>
+            <br>
+            2024
+        </sub>
+        </td>
+        <td align="center" width="150px">
+        <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/mostratech.png" width="40" height="40"/>
         <br>
-        2024 & 2025
-      </sub>
-    </td>
-  </tr>
+        <sub>
+            <b>Mostratech - Projeto Integrador</b>
+            <br>
+            2024 & 2025
+        </sub>
+        </td>
+    </tr>
 </table>
 
 ---
@@ -172,9 +174,14 @@
 ### 📊 Stats do Github
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codinomello&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinomello&layout=compact&theme=github_dark&hide_border=true&hide=html,css,dart,cmake" />
-  <!-- <img height="170" src="https://streak-stats.demolab.com?user=codinomello&theme=github_dark&hide_border=true" /> -->
+    <!-- Modo claro -->
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=codinomello&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinomello&layout=compact&theme=default&hide_border=true&hide=html,css,dart,cmake#gh-light-mode-only" />
+    <!-- <img height="170" src="https://streak-stats.demolab.com?user=codinomello&theme=github_dark&hide_border=true#gh-light-mode-only" /> -->
+    <!-- Modo escuro -->
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=codinomello&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinomello&layout=compact&theme=github_dark&hide_border=true&hide=html,css,dart,cmake#gh-dark-mode-only" />
+    <!-- <img height="170" src="https://streak-stats.demolab.com?user=codinomello&theme=github_dark&hide_border=true#gh-dark-mode-only" /> -->
 </div>
 
 ---
