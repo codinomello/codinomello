@@ -1,8 +1,8 @@
-# Olá, eu sou Gabriel Mello! 👋
+# Olá, eu sou Gabriel de Mello! 👋
 
 ### 🎓 Formação Acadêmica
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="125px">
       <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/eniac.png" width="40" height="40"/>
@@ -64,49 +64,86 @@
 
 ---
 
-### 🛠 Tecnologias Principais
+### 🛠️ Tecnologias Principais
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-3970e4?style=flat&logo=kubernetes&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-D79921?style=flat&logo=zig&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![C++](https://img.shields.io/badge/C++-f34b7d?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-4F4F4F?style=flat&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-282828?style=flat&logo=linux&logoColor=white)
-<!--![Firebase](https://img.shields.io/badge/Firebase-db8502?style=flat-square&logo=firebase&logoColor=white)-->
-<!--![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)-->
-
----
-
-🔎 2025 → [weebie-go](https://github.com/codinomello/weebie-go) ☁
-> Uma plataforma de iniciativas de projetos comunitários em Go
-
-⚙ Desenvolvimento → [logs-go](https://github.com/codinomello/logs-go) 📰 
-> Sistema distribuído de processamento de logs em tempo real usando Go e MongoDB
-
-📄 Publicado → [plamt-html](https://github.com/codinomello/plamt-html) 🌱
-> Website informativo e educativo sobre os biomas brasileiros e suas tecnologias
+<div align="center">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-41DAFB?style=flat&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-3970e4?style=flat&logo=kubernetes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Astro-ff5d01?style=flat&logo=astro&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-f34b7d?style=flat&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-4F4F4F?style=flat&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-282828?style=flat&logo=linux&logoColor=white"/>
+</div>
 
 ---
 
-### 🌍 Idiomas
+### 🧩 Tech Stack
 
-![Português](https://img.shields.io/badge/Português-Nativo-008494?style=flat-square&logo=translate&logoColor=white)
-![Inglês](https://img.shields.io/badge/Inglês-Avançado-1D6F93?style=flat-square&logo=translate&logoColor=white)
-![Francês](https://img.shields.io/badge/Francês-Avançado-1D6F93?style=flat-square&logo=translate&logoColor=white)
-![Espanhol](https://img.shields.io/badge/Espanhol-Intermediário-3D9EBB?style=flat-square&logo=translate&logoColor=white)
+<table align="center">
+    <tr>
+        <td align="center"><b>🚀 Full Stack</b></td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=go,ts,react,tailwind,htmx&perline=8" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><b>☕ Back-end</b></td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=go,java,spring,python,mongodb,postgresql,redis&perline=8" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><b>🎨 Frontend</b></td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=astro,react,ts,tailwind,htmx" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><b>📊 Dados / IA</b></td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=8" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><b>📱 Mobile</b></td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=flutter,kotlin,java&perline=8" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><b>☁️ Cloud / DevOps</b></td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,gcp,aws&perline=8" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><b>⚙️ Sistemas e Baixo Nível</b></td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=c,cpp,linux,windows,git&perline=8" />
+        </td>
+    </tr>
+</table>
 
 ---
 
 ### 🏆 Participações em Eventos e Competições
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="150px">
       <img src="https://raw.githubusercontent.com/codinomello/codinomello/main/assets/feceg.png" width="40" height="40"/>
@@ -131,17 +168,73 @@
 
 ---
 
-### 🚀 Stack 
+
+### 📊 Stats do Github
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,react,tailwind,htmx&perline=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codinomello&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinomello&layout=compact&theme=github_dark&hide_border=true&hide=html,css,dart,cmake" />
+  <!-- <img height="170" src="https://streak-stats.demolab.com?user=codinomello&theme=github_dark&hide_border=true" /> -->
 </div>
+
+---
+
+### 🌍 Idiomas
+
+<table align="center">
+    <tr>
+        <th>Idioma</th>
+        <th>Nível</th>
+        <th>Fluência</th>
+    </tr>
+    <tr>
+        <td>🇧🇷 Português</td>
+        <td>Nativo</td>
+        <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+        <td>🇺🇸 Inglês</td>
+        <td>Avançado</td>
+        <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+        <td>🇪🇸 Espanhol</td>
+        <td>Avançado</td>
+        <td>⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+        <td>🇫🇷 Francês</td>
+        <td>Intermediário</td>
+        <td>⭐⭐⭐💫</td>
+    </tr>
+    <tr>
+        <td>🇩🇪 Alemão</td>
+        <td>Intermediário</td>
+        <td>⭐⭐⭐</td>
+    </tr>
+</table>
 
 ---
 
 ### 📫 Contato
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-h-mello)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielmellocode@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/codinomello)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23629787)
+<div align="center">
+    <a href="https://linkedin.com/in/gabriel-linkedin-link">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:gabriel-email-link@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://instagram.com/gabriel-instagram-link">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="https://stackoverflow.com/users/gabriel-stack-overflow-link">
+        <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white"/>
+    </a>
+    <a href="https://wa.me/DDI+DDD+gabriel-whatsapp-link">
+        <img src="https://img.shields.io/badge/Whatsapp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+    </a>
+    <a href="https://gabriel-portfolio-link.com">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=todoist&logoColor=white"/>
+    </a>
+</div>
