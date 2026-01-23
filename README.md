@@ -174,11 +174,6 @@
 ### 📊 Stats do Github
 
 <div align="center">
-    <!-- Modo claro -->
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=codinomello&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinomello&layout=compact&theme=default&hide_border=true&hide=html,css,dart,cmake#gh-light-mode-only" />
-    <!-- <img height="170" src="https://streak-stats.demolab.com?user=codinomello&theme=github_dark&hide_border=true#gh-light-mode-only" /> -->
-    <!-- Modo escuro -->
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=codinomello&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only" />
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinomello&layout=compact&theme=github_dark&hide_border=true&hide=html,css,dart,cmake#gh-dark-mode-only" />
     <!-- <img height="170" src="https://streak-stats.demolab.com?user=codinomello&theme=github_dark&hide_border=true#gh-dark-mode-only" /> -->
