@@ -212,11 +212,11 @@
         <td>Intermediário</td>
         <td>⭐⭐⭐💫</td>
     </tr>
-    <tr>
+    <!--<tr>
         <td>🇩🇪 Alemão</td>
         <td>Intermediário</td>
         <td>⭐⭐⭐</td>
-    </tr>
+    </tr>-->
 </table>
 
 ---
