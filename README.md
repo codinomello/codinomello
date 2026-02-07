@@ -225,7 +225,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/gabriel-linkedin-link">
-    <img style="border:none;text-decoration:none;" 
+    <img style="border:none;text-decoration:none;color: inherit;" 
          src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
   <a href="mailto:gabriel-email-link@gmail.com">
