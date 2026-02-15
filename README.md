@@ -139,7 +139,7 @@
     <tr>
         <td align="center"><b>⚙️ Sistemas e Baixo Nível</b></td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=c,cpp,linux,windows,git&perline=8" width="250"/>
+            <img src="https://skillicons.dev/icons?i=c,cpp,rust,linux,windows,git&perline=8" width="240"/>
         </td>
     </tr>
 </table>
