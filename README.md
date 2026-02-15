@@ -225,28 +225,27 @@
 ### 📫 Contato
 
 <div align="center">
-  <a href="https://linkedin.com/in/gabriel-linkedin-link">
-    <img style="border:none;text-decoration:none;color:inherit;" 
-         src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
+  <a href="https://linkedin.com/in/gabriel-linkedin-link" style="text-decoration:none;">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
-  <a href="mailto:gabriel-email-link@gmail.com">
-    <img style="border:none;text-decoration:none;color:inherit;" 
-         src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+
+  <a href="mailto:gabriel-email-link@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/gabriel-instagram-link">
-    <img style="border:none;text-decoration:none;color:inherit;" 
-         src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+
+  <a href="https://instagram.com/gabriel-instagram-link" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/gabriel-stack-overflow-link">
-    <img style="border:none;text-decoration:none;color:inherit;" 
-         src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white"/>
+
+  <a href="https://stackoverflow.com/users/gabriel-stack-overflow-link" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white"/>
   </a>
-  <a href="https://wa.me/DDI+DDD+gabriel-whatsapp-link">
-    <img style="border:none;text-decoration:none;color:inherit;" 
-         src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+
+  <a href="https://wa.me/DDI+DDD+gabriel-whatsapp-link" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://gabriel-portfolio-link.com">
-    <img style="border:none;text-decoration:none;color:inherit;" 
-         src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=todoist&logoColor=white"/>
+
+  <a href="https://gabriel-portfolio-link.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=todoist&logoColor=white"/>
   </a>
 </div>
