@@ -92,6 +92,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-f34b7d?style=flat&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-4F4F4F?style=flat&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Rust-B7410E?style=flat&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-282828?style=flat&logo=linux&logoColor=white"/>
 </div>
 
