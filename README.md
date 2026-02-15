@@ -90,9 +90,9 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
     <img src="https://img.shields.io/badge/Astro-ff5d01?style=flat&logo=astro&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Rust-B7410E?style=flat&logo=rust&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-f34b7d?style=flat&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-4F4F4F?style=flat&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Rust-B7410E?style=flat&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-282828?style=flat&logo=linux&logoColor=white"/>
 </div>
 
@@ -104,37 +104,37 @@
     <tr>
         <td align="center"><b>🚀 Full Stack</b></td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=go,ts,react,tailwind,htmx&perline=8" width="250"/>
+            <img src="https://skillicons.dev/icons?i=go,ts,react,tailwind,htmx&perline=8" width="200"/>
         </td>
     </tr>
     <tr>
         <td align="center"><b>☕ Back-end</b></td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=go,java,spring,python,mongodb,postgresql,redis&perline=8" width="350"/>
+            <img src="https://skillicons.dev/icons?i=go,java,spring,python,mongodb,postgresql,redis&perline=8" width="280"/>
         </td>
     </tr>
     <tr>
         <td align="center"><b>🎨 Frontend</b></td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=astro,react,ts,tailwind,htmx" width="250"/>
+            <img src="https://skillicons.dev/icons?i=astro,react,ts,tailwind,htmx" width="200"/>
         </td>
     </tr>
     <tr>
         <td align="center"><b>📊 Dados / IA</b></td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=8" width="100"/>
+            <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=8" width="80"/>
         </td>
     </tr>
     <tr>
         <td align="center"><b>📱 Mobile</b></td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=flutter,kotlin,java&perline=8" width="150"/>
+            <img src="https://skillicons.dev/icons?i=flutter,kotlin,java&perline=8" width="120"/>
         </td>
     </tr>
     <tr>
         <td align="center"><b>☁️ Cloud / DevOps</b></td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,gcp,aws&perline=8" width="250"/>
+            <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,gcp,aws&perline=8" width="200"/>
         </td>
     </tr>
     <tr>
