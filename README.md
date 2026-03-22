@@ -1,6 +1,58 @@
 # Olá, eu sou Gabriel de Mello! 👋
 
-<p>👦 Desenvolvedor Full Stack • Go • Cloud • Data</p>
+<table align="center">
+<tr>
+<td valign="top">
+
+### 🤓 Eu
+
+``` c
+dev_t gabriel = {
+    .name = "🧑 Gabriel de Mello",
+    .alias = "👤 codinomello",
+    .location = "🇧🇷 Brasil",
+    .focus = {
+        "💾 Back-end",
+        "🗂️ Data",
+        "⚡ Embarcados",
+        "☁️ Cloud"
+    },
+    .interests = {
+        "🗣️ Idiomas",
+        "🏦 História",
+        "🛠️ Tecnologia"
+    },
+};
+```
+
+</td>
+<td valign="top">
+
+### 📫 Contato
+
+<ul>
+    <li>
+        <a href="https://linkedin.com/in/codinomello">🔗 LinkedIn</a>
+    </li>
+    <li>
+        <a href="mailto:gabrielmellocode@gmail.com">📧 Email</a>
+    </li>
+    <li>
+        <a href="https://instagram.com/codinomello">📸 Instagram</a>
+        </li>
+    <li>
+        <a href="https://stackoverflow.com/users/seu-id">💡 Stack Overflow</a>
+    </li>
+    <li>
+        <a href="https://wa.me/5511999999999">💬 WhatsApp</a>
+    </li>
+    <li>
+        <a href="https://portfolio-astro.codinomello.workers.dev/">🧠 Portfolio</a>
+    </li>
+</ul>
+
+</tr>
+</table>
 
 ### 🎓 Formação Acadêmica
 
@@ -180,7 +232,6 @@
 <div align="center">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=codinomello&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only" />
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinomello&layout=compact&theme=github_dark&hide_border=true&hide=html,css,dart,cmake#gh-dark-mode-only" />
-    <!-- <img height="170" src="https://streak-stats.demolab.com?user=codinomello&theme=github_dark&hide_border=true#gh-dark-mode-only" /> -->
 </div>
 
 ---
@@ -213,20 +264,4 @@
         <td>Intermediário</td>
         <td>⭐⭐⭐💫</td>
     </tr>
-    <!--<tr>
-        <td>🇩🇪 Alemão</td>
-        <td>Intermediário</td>
-        <td>⭐⭐⭐</td>
-    </tr>-->
 </table>
-
----
-
-### 📫 Contato
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/seu-instagram)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/seu-id)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5511999999999)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=todoist&logoColor=white)](https://portfolio-astro.codinomello.workers.dev/)
