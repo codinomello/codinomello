@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel de Mello! 👋
 
-<table align="center">
+<table align="center" border="0">
 <tr>
 <td valign="top">
 
@@ -8,7 +8,7 @@
 
 ``` c
 dev_t gabriel = {
-    .name = "🧑 Gabriel de Mello",
+    .name = "🧑 Gabriel de Melloㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",          
     .alias = "👤 codinomello",
     .location = "🇧🇷 Brasil",
     .focus = {
@@ -32,22 +32,22 @@ dev_t gabriel = {
 
 <ul>
     <li>
-        <a href="https://linkedin.com/in/codinomello">🔗 LinkedIn</a>
+        <a href="https://linkedin.com/in/codinomello" style="text-decoration: none;">🔗 LinkedIn</a>
     </li>
     <li>
-        <a href="mailto:gabrielmellocode@gmail.com">📧 Email</a>
+        <a href="mailto:gabrielmellocode@gmail.com" style="text-decoration: none;">📧 Email</a>
     </li>
     <li>
-        <a href="https://instagram.com/codinomello">📸 Instagram</a>
+        <a href="https://instagram.com/codinomello" style="text-decoration: none;">📸 Instagram</a>
         </li>
     <li>
-        <a href="https://stackoverflow.com/users/seu-id">💡 Stack Overflow</a>
+        <a href="https://stackoverflow.com/users/seu-id" style="text-decoration: none;">💡 Stack Overflow</a>
     </li>
     <li>
-        <a href="https://wa.me/5511999999999">💬 WhatsApp</a>
+        <a href="https://wa.me/5511999999999" style="text-decoration: none;">💬 WhatsApp</a>
     </li>
     <li>
-        <a href="https://portfolio-astro.codinomello.workers.dev/">🧠 Portfolio</a>
+        <a href="https://portfolio-astro.codinomello.workers.dev/" style="text-decoration: none;">🧠 Portfolio</a>
     </li>
 </ul>
 
