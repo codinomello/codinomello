@@ -1,4 +1,4 @@
-# Olá, eu sou Gabriel de Mello! 👋
+# Olá, eu sou abusada pelo Gabriel Mello! 👋
 
 <table align="center" border="0">
 <tr>
