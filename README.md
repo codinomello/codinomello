@@ -1,5 +1,11 @@
 # Olá, eu sou Gabriel Mello! 👋
 
+<div align="center">
+
+`@codinomello`
+
+</div>
+
 <table align="center" border="0">
 <tr>
 <td valign="top">
@@ -18,8 +24,8 @@ dev_t gabriel = {
         "☁️ Cloud"
     },
     .interests = {
-        "🗣️ Idiomas",
-        "🏦 História",
+        "🌎 Idiomas",
+        "🏦 Diplomacia",
         "🛠️ Tecnologia"
     },
 };
@@ -54,7 +60,7 @@ dev_t gabriel = {
 </tr>
 </table>
 
-### 🎓 Formação Acadêmica
+### 🎓 Formação
 
 <table align="center">
     <tr>
@@ -118,7 +124,7 @@ dev_t gabriel = {
 
 ---
 
-### 🛠️ Tecnologias Principais
+### 🛠️ Tecnologias
 
 <div align="center">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
@@ -150,7 +156,7 @@ dev_t gabriel = {
 
 ---
 
-### 🧩 Tech Stack
+### 🧩 Stack
 
 <table align="center">
     <tr>
@@ -199,7 +205,7 @@ dev_t gabriel = {
 
 ---
 
-### 🏆 Participações em Eventos e Competições
+### 🏆 Participações
 
 <table align="center">
     <tr>
@@ -226,6 +232,9 @@ dev_t gabriel = {
 
 ---
 
+<!-- 
+
+---
 
 ### 📊 Stats do Github
 
@@ -236,13 +245,15 @@ dev_t gabriel = {
 
 ---
 
+-->
+
 ### 🌍 Idiomas
 
 <table align="center">
     <tr>
-        <th>Idioma</th>
-        <th>Nível</th>
-        <th>Fluência</th>
+        <th>🗣️ Idioma</th>
+        <th>📊 Nível</th>
+        <th>💬 Fluência</th>
     </tr>
     <tr>
         <td>🇧🇷 Português</td>
@@ -251,17 +262,45 @@ dev_t gabriel = {
     </tr>
     <tr>
         <td>🇺🇸 Inglês</td>
-        <td>Avançado</td>
+        <td>C2</td>
         <td>⭐⭐⭐⭐⭐</td>
     </tr>
     <tr>
         <td>🇪🇸 Espanhol</td>
-        <td>Avançado</td>
-        <td>⭐⭐⭐⭐</td>
+        <td>C2</td>
+        <td>⭐⭐⭐⭐⭐</td>
     </tr>
     <tr>
         <td>🇫🇷 Francês</td>
-        <td>Intermediário</td>
+        <td>C1</td>
+        <td>⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+        <td>🇮🇹 Italiano</td>
+        <td>B2</td>
         <td>⭐⭐⭐💫</td>
     </tr>
+    <tr>
+        <td>🇩🇪 Alemão</td>
+        <td>B1</td>
+        <td>⭐⭐⭐</td>
+    </tr>
+    <tr>
+        <td>🇷🇺 Russo</td>
+        <td>A2</td>
+        <td>⭐⭐</td>
+    </tr>
+    <tr>
+        <td>🇯🇵 Japonês</td>
+        <td>JLPT N4</td>
+        <td>⭐💫</td>
+    </tr>
 </table>
+
+---
+
+<div align="center">
+
+`"Per aspera ad astra."` 🚀🌟
+
+</div>
