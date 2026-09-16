@@ -14,7 +14,7 @@
 
 ``` c
 dev_t gabriel = {
-    .name = "🧑 Gabriel de Melloㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",          
+    .name = "🧑 Gabriel de Mello",          
     .alias = "👤 codinomello",
     .location = "🇧🇷 Brasil",
     .focus = {
