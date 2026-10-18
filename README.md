@@ -232,10 +232,6 @@ dev_t gabriel = {
 
 ---
 
-<!-- 
-
----
-
 ### 📊 Stats do Github
 
 <div align="center">
@@ -244,8 +240,6 @@ dev_t gabriel = {
 </div>
 
 ---
-
--->
 
 ### 🌍 Idiomas
 
