@@ -289,6 +289,11 @@ dev_t gabriel = {
         <td>JLPT N4</td>
         <td>⭐💫</td>
     </tr>
+     <tr>
+        <td>🇨🇳 Chinês</td>
+        <td>HSK 1</td>
+        <td>⭐</td>
+    </tr>
 </table>
 
 ---
